@@ -1,0 +1,47 @@
+body {
+    background: cover;
+}
+
+.heading {
+    font-size: 35px;
+    color: crimson;
+    width: 100%;
+    margin: 0px;
+    font-family: fantasy;
+}
+
+.note {
+    font-size: 22px;
+    color: rgb(40, 17, 139);
+    font-family:cursive;
+}
+
+.div_speed { 
+    float:left;
+}
+
+.div_speed_img {
+    border-radius: 100px;
+    width: 200px;
+}
+
+
+#speed {
+    margin: 15px;
+    font-size: 21px;
+}
+
+.div_volume { 
+    float:right;
+}
+
+.div_volume_img {
+    border-radius: 100px;
+    width: 200px;
+}
+
+
+#volume {
+    margin: 15px;
+    font-size: 21px;
+}
