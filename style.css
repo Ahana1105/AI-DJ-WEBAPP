@@ -11,7 +11,7 @@ body {
 }
 
 .note {
-    font-size: 22px;
+    font-size: 18px;
     color: rgb(40, 17, 139);
     font-family:cursive;
 }
@@ -44,4 +44,19 @@ body {
 #volume {
     margin: 15px;
     font-size: 21px;
+}
+
+.play_button {
+    width : 130px;
+    font-size : 25px;
+    font-family : Georgia, 'Times New Roman', Times, serif;
+    color:darkblue !important;
+}
+
+canvas {
+    border-width : 4px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color:azure;
+    margin-top:50px;
 }
